@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "WeatherService.Protos";
+
+package weather;
+
+service Weather {
+  rpc StreamWeather(WeatherRequest) returns (stream WeatherReply);
+}
+/*
+Servis adý: Weather
+Metot adý: StreamWeather
+Client bir WeatherRequest gönderiyor.
+Server sürekli WeatherReply gönderiyor. (stream)
+*/
+
+message WeatherRequest {
+  string city = 1;
+}
+
+message WeatherReply {
+  string city = 1;
+  string temperature = 2;
+  string humidity = 3;
+  string timestamp = 4;
+}

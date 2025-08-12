@@ -1,0 +1,2 @@
+obj\Release\net8.0/Weather.cs \
+obj\Release\net8.0/WeatherGrpc.cs: C:/Users/Simay/Desktop/staj/server_streaming_rpc/gRPC_Weather/WeatherService/WeatherService/Protos/weather.proto

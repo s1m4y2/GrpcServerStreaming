@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Simay\\source\\repos\\CryptoService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3545D40B-0480-12DB-EE52-4076736E4C6B}|..\\CryptoClient\\CryptoClient\\CryptoClient.csproj|c:\\users\\simay\\source\\repos\\cryptoclient\\cryptoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|c:\\users\\simay\\source\\repos\\cryptoservice\\cryptoservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|solutionrelative:cryptoservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|c:\\users\\simay\\source\\repos\\cryptoservice\\cryptoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|solutionrelative:cryptoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|c:\\users\\simay\\source\\repos\\cryptoservice\\cryptoservice\\services\\cryptoserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|solutionrelative:cryptoservice\\services\\cryptoserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3545D40B-0480-12DB-EE52-4076736E4C6B}|..\\CryptoClient\\CryptoClient\\CryptoClient.csproj|c:\\users\\simay\\source\\repos\\cryptoclient\\cryptoclient\\cryptoclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|c:\\users\\simay\\source\\repos\\cryptoservice\\cryptoservice\\cryptoservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|solutionrelative:cryptoservice\\cryptoservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|c:\\users\\simay\\source\\repos\\cryptoservice\\cryptoservice\\protos\\crypto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3C413542-A64B-44EF-9D5F-8117FAD53CBB}|CryptoService\\CryptoService.csproj|solutionrelative:cryptoservice\\protos\\crypto.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CryptoService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CryptoService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T08:37:45.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoService\\Program.cs",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\Program.cs",
+              "RelativeToolTip": "CryptoService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:37:14.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CryptoServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\Services\\CryptoServiceImpl.cs",
+              "RelativeDocumentMoniker": "CryptoService\\Services\\CryptoServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\Services\\CryptoServiceImpl.cs",
+              "RelativeToolTip": "CryptoService\\Services\\CryptoServiceImpl.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:36:24.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CryptoClient",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\CryptoClient\\CryptoClient\\CryptoClient.csproj",
+              "RelativeDocumentMoniker": "..\\CryptoClient\\CryptoClient\\CryptoClient.csproj",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\CryptoClient\\CryptoClient\\CryptoClient.csproj",
+              "RelativeToolTip": "..\\CryptoClient\\CryptoClient\\CryptoClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T08:32:01.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "crypto.proto",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\Protos\\crypto.proto",
+              "RelativeDocumentMoniker": "CryptoService\\Protos\\crypto.proto",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\Protos\\crypto.proto",
+              "RelativeToolTip": "CryptoService\\Protos\\crypto.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-07-11T08:29:42.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\CryptoClient\\CryptoClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CryptoClient\\CryptoClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\CryptoClient\\CryptoClient\\Program.cs",
+              "RelativeToolTip": "..\\CryptoClient\\CryptoClient\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T08:29:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CryptoService",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\CryptoService.csproj",
+              "RelativeDocumentMoniker": "CryptoService\\CryptoService.csproj",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\CryptoService\\CryptoService\\CryptoService.csproj",
+              "RelativeToolTip": "CryptoService\\CryptoService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T08:28:51.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

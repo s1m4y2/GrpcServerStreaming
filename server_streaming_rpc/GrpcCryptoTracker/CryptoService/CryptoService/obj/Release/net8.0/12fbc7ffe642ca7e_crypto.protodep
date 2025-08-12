@@ -1,0 +1,2 @@
+obj\Release\net8.0\Protos/Crypto.cs \
+obj\Release\net8.0\Protos/CryptoGrpc.cs: Protos/crypto.proto

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoService", "CryptoService\CryptoService.csproj", "{3C413542-A64B-44EF-9D5F-8117FAD53CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoClient", "..\CryptoClient\CryptoClient\CryptoClient.csproj", "{3545D40B-0480-12DB-EE52-4076736E4C6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C413542-A64B-44EF-9D5F-8117FAD53CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C413542-A64B-44EF-9D5F-8117FAD53CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C413542-A64B-44EF-9D5F-8117FAD53CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C413542-A64B-44EF-9D5F-8117FAD53CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3545D40B-0480-12DB-EE52-4076736E4C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3545D40B-0480-12DB-EE52-4076736E4C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3545D40B-0480-12DB-EE52-4076736E4C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3545D40B-0480-12DB-EE52-4076736E4C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12B2A3D-A1E2-44BB-9179-41E127C3063F}
+	EndGlobalSection
+EndGlobal

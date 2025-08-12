@@ -1,0 +1,26 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "CryptoService.Protos";
+
+package crypto;
+
+service Crypto {
+  rpc StreamPrices (CryptoRequest) returns (stream CryptoReply);
+}
+/*
+Servis adı: Crypto
+RPC metodu: StreamPrices
+Client CryptoRequest gönderir → Server sürekli CryptoReply gönderir (stream)
+*/
+
+message CryptoRequest {
+  string symbol = 1; // Örn: BTC, ETH
+}
+
+message CryptoReply {
+  string symbol = 1;
+  double price = 2;
+  double changePercent = 3;
+  double volume = 4;
+  string timestamp = 5;
+}

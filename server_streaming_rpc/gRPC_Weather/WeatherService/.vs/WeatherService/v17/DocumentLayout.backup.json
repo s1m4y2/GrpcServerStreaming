@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Simay\\source\\repos\\WeatherService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3148C750-417C-E142-D4BA-D966AA60A385}|..\\WeatherClient\\WeatherClient\\WeatherClient.csproj|c:\\users\\simay\\source\\repos\\weatherclient\\weatherclient\\weatherclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148C750-417C-E142-D4BA-D966AA60A385}|..\\WeatherClient\\WeatherClient\\WeatherClient.csproj|c:\\users\\simay\\source\\repos\\weatherclient\\weatherclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|c:\\users\\simay\\source\\repos\\weatherservice\\weatherservice\\weatherservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\weatherservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|c:\\users\\simay\\source\\repos\\weatherservice\\weatherservice\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\protos\\weather.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|c:\\users\\simay\\source\\repos\\weatherservice\\weatherservice\\services\\weatherserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\services\\weatherserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|c:\\users\\simay\\source\\repos\\weatherservice\\weatherservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|c:\\users\\simay\\source\\repos\\weatherservice\\weatherservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|c:\\users\\simay\\source\\repos\\weatherservice\\weatherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D2A2E5-AEEA-4772-9224-B4FE180801A2}|WeatherService\\WeatherService.csproj|solutionrelative:weatherservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WeatherService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WeatherService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T07:55:57.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\Services\\WeatherServiceImpl.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Services\\WeatherServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\Services\\WeatherServiceImpl.cs",
+              "RelativeToolTip": "WeatherService\\Services\\WeatherServiceImpl.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:43:35.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "weather.proto",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\Protos\\weather.proto",
+              "RelativeDocumentMoniker": "WeatherService\\Protos\\weather.proto",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\Protos\\weather.proto",
+              "RelativeToolTip": "WeatherService\\Protos\\weather.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-07-11T07:18:07.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\WeatherClient\\WeatherClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WeatherClient\\WeatherClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\WeatherClient\\WeatherClient\\Program.cs",
+              "RelativeToolTip": "..\\WeatherClient\\WeatherClient\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:00:59.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherClient",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\WeatherClient\\WeatherClient\\WeatherClient.csproj",
+              "RelativeDocumentMoniker": "..\\WeatherClient\\WeatherClient\\WeatherClient.csproj",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\WeatherClient\\WeatherClient\\WeatherClient.csproj",
+              "RelativeToolTip": "..\\WeatherClient\\WeatherClient\\WeatherClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T07:00:24.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherService\\Program.cs",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\Program.cs",
+              "RelativeToolTip": "WeatherService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:59:51.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherService",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\WeatherService.csproj",
+              "RelativeDocumentMoniker": "WeatherService\\WeatherService.csproj",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\WeatherService.csproj",
+              "RelativeToolTip": "WeatherService\\WeatherService.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T06:58:11.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Simay\\source\\repos\\WeatherService\\WeatherService\\appsettings.json",
+              "RelativeToolTip": "WeatherService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-11T06:57:35.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

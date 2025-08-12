@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "CryptoService\\CryptoService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CryptoClient\\CryptoClient\\CryptoClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

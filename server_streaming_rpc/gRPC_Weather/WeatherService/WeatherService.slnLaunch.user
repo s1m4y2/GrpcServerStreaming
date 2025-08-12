@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Yeni Profil",
+    "Projects": [
+      {
+        "Path": "WeatherService\\WeatherService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\WeatherClient\\WeatherClient\\WeatherClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ze7zOldhc8koI93Gy7KFkG+eXqQ0AGtyHJ5Guv7Xsbc=",
+  "Source": "CryptoService",
+  "BasePath": "_content/CryptoService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

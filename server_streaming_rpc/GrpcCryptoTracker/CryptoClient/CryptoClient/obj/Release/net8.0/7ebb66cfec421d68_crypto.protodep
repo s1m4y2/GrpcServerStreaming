@@ -1,0 +1,2 @@
+obj\Release\net8.0/Crypto.cs \
+obj\Release\net8.0/CryptoGrpc.cs: C:/Users/Simay/Desktop/staj/server_streaming_rpc/GrpcCryptoTracker/CryptoService/CryptoService/Protos/crypto.proto
